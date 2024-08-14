@@ -8,3 +8,7 @@ Initialement, ces mini-cours ont été imaginés pour des étudiant.e.s d'école
 
 * [Les bases (détaillées) de l'astronomie](<Les bases de l'astronomie.pdf>)
 * [Les bases (détaillées) des CubeSats](<Les bases des CubeSats.pdf>)
+
+### Utilisation
+
+Sentez-vous libres d'utiliser ces documents comme bon vous semble, tant que cela reste dans un cadre éducatif ou associatif. Vous trouverez également les documents bruts dans le dossier [powerpoint](powerpoint), si vous voulez les modifier, les compléter ou les adapater 😉 Dans ce cas, vous devrez partager ces documents sous la même licence ([GNU GPL v3.0](LICENSE)) et avec ces mêmes conditions.
